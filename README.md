@@ -30,4 +30,7 @@
 
 ## 📫 Social Media
 - 🌐 Website: [fattcat-original.com]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ))  
-- 🔗 YouTube: [my-YT-channel.com]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ))
+- 🔗 YouTube: [my-Y-channel.com]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ))
+
+- 🌐 Website / Portfolio: [your-website.com](https://your-website.com)  
+- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
