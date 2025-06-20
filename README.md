@@ -29,5 +29,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fattcat&layout=compact&theme=tokyonight)
 
 ## 📫 Social Media
-- 🌐 Website: [fattcat-original.com]([me](https://www.youtube.com/watch?v=dQw4w9WgXcQ))  
-- 🔗 YouTube: [my-YT-channel.com]([me](https://www.youtube.com/watch?v=dQw4w9WgXcQ))
+- 🌐 Website: [fattcat-original.com]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ))  
+- 🔗 YouTube: [my-YT-channel.com]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ))
