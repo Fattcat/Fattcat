@@ -27,10 +27,3 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fattcat&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fattcat&layout=compact&theme=tokyonight)
-
-## 📫 Social Media
-- 🌐 Website: [fattcat-original.com]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ))  
-- 🔗 YouTube: [my-Y-channel.com]([https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ))
-
-- 🌐 Website / Portfolio: [your-website.com](https://your-website.com)  
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
